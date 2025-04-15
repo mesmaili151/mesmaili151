@@ -39,9 +39,3 @@ DevOps:      Docker | Git | Vite | pnpm
 
 - 🧠 Twitter/X: [@mesmaili151](http://x.com/mesmaili151)
 - 💼 LinkedIn: [linkedin.com/in/mohammad-esmaeilimoakhar](https://www.linkedin.com/in/mohammad-esmaeilimoakhar/)
-
----
-
-<p align="center">
-  Made with ❤️ by Mo
-</p>
